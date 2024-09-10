@@ -31,7 +31,7 @@ To set up this project and install the required dependencies, follow these steps
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone git@github.com:taqirazaj/saucedemo.git
+   git clone git@github.com:wajhi-shah/Demo-Project.git
    ```
 
 2. Navigate to the project directory:
